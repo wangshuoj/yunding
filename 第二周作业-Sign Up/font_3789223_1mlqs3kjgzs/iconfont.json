@@ -1,0 +1,37 @@
+{
+  "id": "3789223",
+  "name": "云顶第二次作业",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "82753",
+      "name": "未选中圆圈",
+      "font_class": "weixuanzhongyuanquan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19883451",
+      "name": "添加头像",
+      "font_class": "tianjiatouxiang",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "24858527",
+      "name": "注意 感叹号",
+      "font_class": "Rrl_s_074",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "577407",
+      "name": "向左2",
+      "font_class": "xiangzuo2",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    }
+  ]
+}

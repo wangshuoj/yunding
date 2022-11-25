@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.box{
+    position: relative;
+    margin: 0 auto;
+    width: 683px;
+    height: 1143px;
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: 683px 1143px;
+}
+.header{
+    position: absolute;
+    top: 35px;
+    width: 683px;
+    height: 60px;
+}
+.icon-xiangzuo2{
+    
+    color: white;
+    opacity: 0.3;
+}
+.icon-Rrl_s_074{
+    color: white;
+    opacity: 0.3;
+}
+.header_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 60px;
+    color: white;
+    font-size: 32px;
+    opacity: 0.8;
+}
+.circle{
+    margin: auto;
+    position: relative;
+    top: 170px;
+    height: 150px;
+    width: 150px;
+    border: solid 2px rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+}
+.icon-tianjiatouxiang{
+    position: absolute;
+    left: 50%;
+    margin-left: -28px;
+    top: 35px;
+    color: white;
+    opacity: 0.8;
+}
+.circle p{
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    top: 93px;
+    font-size: 20px;
+    color: white;
+    opacity: 0.8;
+}
+.content {
+    position: relative;
+    top: 220px;
+    margin-left: 80px;   
+    height: 440px;
+    font-size: 26px;
+    color: white;
+}
+.content input{
+    height: 25px;
+    line-height: 35px;
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+    background-color: transparent;
+    border-style: hidden;
+    width: 200px;
+}
+.content img{
+    margin-left: -30px;
+    width: 500px;
+    padding: 30px;
+}
+#password{
+    position: absolute;
+    left: 10%;
+    margin-left: -60px;
+    top: 340px;
+}
+.show{
+    position: absolute;
+    top: 340px;
+    left: 70%;
+    color: #3cffb5;
+}
+.button{
+    position: absolute;
+    left: 50%;
+    margin-left: -280px;
+    top: 430px;
+    width: 442px;
+    height: 75px;
+    background-image: url(images/button\ 2.png);
+}
+.button a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+    height: 70px;
+    opacity: 0.7;
+}
+.footer span{
+    position: absolute;
+    left: 50%;
+    margin-left: -240px;
+    top: 540px;
+    color: white;
+    font-size: 23px;
+}
+.footer a{
+    position: absolute;
+    left: 50%;
+    margin-left: 10px;
+    top: 540px;
+    color: #3cffb5;;
+}
+
+
+
+
